@@ -1,8 +1,8 @@
 import csv # Executing CSV built-in mode to work with csv files
 
 # File paths
-input_file_path ='C:\\Users\\zahpay\\Downloads\\Assignment\\brca_cnvs_tcga-1-2.csv'  # Remember to replace with your actual file path
-output_file_path ='C:\\Users\\zahpay\\Downloads\\Assignment\\output.csv'  # Remember to replace with your actual output file path
+input_file_path ='C:\\Users\\zahpay\\Downloads\\Assignment\\brca_cnvs_tcga-1-2.csv' 
+output_file_path ='C:\\Users\\zahpay\\Downloads\\Assignment\\output.csv' 
 
 # Open the input and output files
 with open(input_file_path, mode='r') as infile, open(output_file_path, mode='w', newline='') as outfile:
