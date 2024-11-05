@@ -1,5 +1,5 @@
 How to Run the Script
-To run the PN_assignment.py script, follow these steps:
+To run the ZP_assignment.py script, follow these steps:
 
 Ensure Python is Installed:
 
@@ -18,10 +18,8 @@ cd path\to\your\directory
 Run the Script:
 
 Execute the script with the following command:
-python PN_assignment.py
+python ZP_assignment.py
 Important Notes
 File Paths: Ensure that the paths to the input files (like input.csv) are correctly set in the script. The paths may differ on your system, so adjust them as necessary.
 Dependencies: Check any dependencies required by the script, and install them using pip if necessary.
-Additional Information
-This script was developed for the SC0039 exercise, and it can be modified to suit specific requirements.
-If you encounter any problems while using this script, please feel free to reach out to me at parvanehnikpour@gmail.com. I’m happy to assist you with any issues you may face.
+
