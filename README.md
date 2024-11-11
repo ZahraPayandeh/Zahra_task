@@ -12,7 +12,7 @@ The input.csv file is included in the repository, so you don’t need to downloa
 I have used Visual Studio Code and my OS is Windows. You can run the script using any command line shell (Command Prompt, PowerShell, Terminal, etc.), not just Visual Studio Code.
 Navigate to the Script Directory:
 
-Use the cd command to navigate to the directory where your PN_assignment.py and input.csv files are located. For example:
+Use the cd command to navigate to the directory where your ZP_assignment.py and input.csv files are located. For example:
 cd path\to\your\directory
 Run the Script:
 
