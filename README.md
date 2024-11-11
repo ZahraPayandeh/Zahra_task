@@ -3,7 +3,7 @@ To run the ZP_CSV Assignment.py script, follow these steps:
 
 Ensure Python is Installed:
 
-Make sure you have Python installed on your machine.
+Make sure you have Python and pandas installed on your machine.
 Download the Required Files:
 
 Ensure you have the input.csv file in the same directory as your script. This file is necessary for the script to run correctly. Note that, I have re-named this file as: brca_cnvs_tcga-1-2 (1).csv
