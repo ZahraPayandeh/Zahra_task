@@ -18,7 +18,7 @@ Run the Script:
 Execute the script with the following command:
 ```
 python assignment.py
-
+```
 
 
 Important Notes
