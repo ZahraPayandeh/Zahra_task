@@ -16,7 +16,9 @@ cd path\to\your\directory
 Run the Script:
 
 Execute the script with the following command:
+'''
 python assignment.py
+'''
 Important Notes
 File Paths: Ensure that the paths to the input files (like input.csv) are correctly set in the script. The paths may differ on your system, so adjust them as necessary.
 Dependencies: Check any dependencies required by the script, and install them using pip if necessary.
