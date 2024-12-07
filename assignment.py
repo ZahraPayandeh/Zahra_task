@@ -5,3 +5,4 @@ data = pd.read_csv("brca_cnvs_tcga-1-2.csv")
 # Add a new column 'length' which is calculated as loc.end - loc.start
 # This represents the length of the gene
 data['length'] = data['loc.end'] - data['loc.start']
+new_data = data
